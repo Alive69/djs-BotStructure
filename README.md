@@ -30,4 +30,4 @@ That's it really. For now it's simple.
 ## Credits
 Alive, coding the stuff
 
-Monkeys30, the README
+CatFishing4Guyz, the README
