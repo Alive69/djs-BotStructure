@@ -9,11 +9,6 @@ const handlers = fs.readdirSync('./src/Handlers').filter(file => (file.endsWith(
 const commandFolders = fs.readdirSync('./src/Commands');
 const eventFiles = fs.readdirSync('./src/Events').filter(file => (file.endsWith('.js')));
 
-client.on("ready", () => {
-    console.log(`${client.user.tag} is online!`);
-});
-
-
 (async () => {
     for(file of handlers) {
         require(`./Handlers/${file}`)(client);
