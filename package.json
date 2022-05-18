@@ -8,9 +8,9 @@
     "glob": "^8.0.3",
     "mongoose": "^6.3.3"
   },
-  "name": "netcord-bot",
+  "name": "djs-bot-structure",
   "version": "1.0.0",
-  "description": "Netcord is a Discord Bot made by Alive",
+  "description": "My Bot Structure",
   "main": "./src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
