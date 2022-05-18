@@ -13,7 +13,7 @@ your specific needs, like:
 
 * Events handler
 
-* Validation (WIP)
+* MongoDB
 
 That's it really. For now it's simple.
 
