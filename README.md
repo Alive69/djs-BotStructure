@@ -5,7 +5,6 @@ through an API wrapper called `discord.js`. I myself am confused by the unnecess
 of the required bot structures just to run your shitty bot, so this is what this repository
 is for.
 
-## What this repository is for
 This repository contains a bot template using `discord.js`, and all tailored to 
 your specific needs, like:
 
