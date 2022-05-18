@@ -1,3 +1,0 @@
-# djs-BotStructure
-
-In Development...
